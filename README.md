@@ -1,1 +1,1 @@
-# Python---Class-137---Star-Details-App
+# PRO-C137-Student-Boilerplate
